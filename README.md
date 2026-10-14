@@ -51,3 +51,5 @@ The writeups are organized by the core CyLab Academy CTF tracks:
 ## 🤝 Disclaimer
 
 These writeups are purely for educational purposes. CyLab Academy provides a legal, safe environment to learn offensive security skills. Hacking systems without explicit authorization is illegal.
+
+Leo.
