@@ -1,4 +1,4 @@
-# CyLab Academy CTF Writeups 🚩
+# CyLab Academy CTF Writeups 🚩🖥
 
 Welcome to my repository of writeups for [CyLab Academy CTF](https://cylabacademy.org), the educational platform formerly known as picoCTF. As a Computer Science student dedicated to mastering cybersecurity, I use this repository to document my thought processes, scripts, and step-by-step solutions across multiple challenge categories.
 
